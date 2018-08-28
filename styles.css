@@ -1,0 +1,85 @@
+.go_to_console {
+    border: 10px solid #f9be00;
+    font-family: "Roboto", s;
+    font-size: 14px;
+    background: #1b73e7;
+    color: #fbfcff;
+    padding: 18px 0px 29px;
+    border-radius: 0px;
+    letter-spacing: 1px;
+    width: 170.5px;
+    height: 40px;
+    font-weight: 100;
+}
+.Sign_Up {
+    width: 91px;
+    height: 41px;
+    background: #f44c1d;
+    font-family: inherit;
+    font-size: unset;
+    font-weight: 500;
+    color: whitesmoke;
+    padding: inherit;
+    border-radius: 10px;
+}
+
+.get_started {
+    width: 151px;
+    height: 45px;
+    background-color: #5b68cb;
+    font-family: sans-serif;
+    color: white;
+    font-style: inherit;
+    border-radius: 9px;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.Sign_Up_Free {
+    width: 153px;
+    height: 47px;
+    background-color: #5bb9d8;
+    color: white;
+    border-radius: 6px;
+    font-size: 16px;
+}
+.Log_In {
+    width: 76px;
+    height: 33px;
+    font-size: smaller;
+    font-family: serif;
+    background-color: white;
+    border-radius: 5px;
+    font-style: normal;
+    font-weight: 700;
+    color: #666666;
+}
+
+.Start_selling_now {
+    width: 205px;
+    height: 43px;
+    border-radius: 3px;
+    font: initial;
+    font-size: 18px;
+    color: #5b68cb;
+    border-color: #5b68cb;
+    : ;
+}
+.New_Page {
+    font-style: normal;
+    width: 84px;
+    height: 28px;
+    background: #3db232;
+    color: white;
+    border-radius: 5px;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+.explore_the_full_catalog{
+    background-color: #52b87c;
+    color: white;
+    border-radius: 57px;
+    height: 55px;
+    width: 251px;
+    font-size: 17px;
+    font-weight: 240;
