@@ -1,85 +1,101 @@
-.go_to_console {
-    border: 10px solid #f9be00;
-    font-family: "Roboto", s;
-    font-size: 14px;
-    background: #1b73e7;
-    color: #fbfcff;
-    padding: 18px 0px 29px;
-    border-radius: 0px;
-    letter-spacing: 1px;
-    width: 170.5px;
-    height: 40px;
-    font-weight: 100;
+body {
+  -webkit-font-smoothing: antialiased;
 }
-.Sign_Up {
-    width: 91px;
-    height: 41px;
-    background: #f44c1d;
-    font-family: inherit;
-    font-size: unset;
-    font-weight: 500;
-    color: whitesmoke;
-    padding: inherit;
-    border-radius: 10px;
+ .go_to_console-container {
+  background: #fabc05;
+  padding: 8px;
+  width: 164px; 
 }
-
-.get_started {
-    width: 151px;
-    height: 45px;
-    background-color: #5b68cb;
-    font-family: sans-serif;
-    color: white;
-    font-style: inherit;
-    border-radius: 9px;
-    font-weight: 400;
-    font-size: 18px;
+ .go_to_console {
+  border-radius: 4px;
+  border: 4px solid #1b73e7;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  background: #1b73e7;
+  color: #fbfcff;
+  padding: 12px 22px;
+  letter-spacing: 1px;
+  font-weight: 600;  
 }
-
-.Sign_Up_Free {
-    width: 153px;
-    height: 47px;
-    background-color: #5bb9d8;
-    color: white;
-    border-radius: 6px;
-    font-size: 16px;
+ .get_started {
+  color: #7953b2;z
+  border: 1px solid #7953b2;
+  padding: 16px 30px;
+  border-color: #7953b2;
+  border-radius: 5px;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.7px;
 }
-.Log_In {
-    width: 76px;
-    height: 33px;
-    font-size: smaller;
-    font-family: serif;
-    background-color: white;
-    border-radius: 5px;
-    font-style: normal;
-    font-weight: 700;
-    color: #666666;
+  
+.log_in {
+  padding: 8px 16px;
+  font-family: "Open Sans" , sans-serif;
+  font-size: 14px;
+  color: #666666;
+  font-weight: 1000;
+  border-radius: 4px;
+  border: 1.4px solid #d1d1d1;
+  letter-spacing: .1px;
+  margin-left: 6px;
 }
-
-.Start_selling_now {
-    width: 205px;
-    height: 43px;
-    border-radius: 3px;
-    font: initial;
-    font-size: 18px;
-    color: #5b68cb;
-    border-color: #5b68cb;
-    : ;
+ .explore_the_full_catalog {
+  background: #49b882;
+  color: white;
+  padding: 17px 31px;
+  margin-left: 16px;
+  font-size: 15.5px;
+  border-radius: 28px;
+  letter-spacing: .25px;
 }
-.New_Page {
-    font-style: normal;
-    width: 84px;
-    height: 28px;
-    background: #3db232;
-    color: white;
-    border-radius: 5px;
-    font-family: sans-serif;
-    font-size: 12px;
+ .sign_up_free {
+  background: #52bad5;
+  color: white;
+  margin-left: 14px;
+  padding: 13px 23px;
+  border-radius: 5px;
+  font-size: 15.5px;
+  font-weight: 700;
+  letter-spacing: .6px;
 }
-.explore_the_full_catalog{
-    background-color: #52b87c;
-    color: white;
-    border-radius: 57px;
-    height: 55px;
-    width: 251px;
-    font-size: 17px;
-    font-weight: 240;
+ .sign_up-container{
+  margin: 0px;
+ }
+  .sign_up {
+  margin-left: 4px;
+  color: #ffffff;
+  background-color: #f9492c;
+  border: none;
+  border-radius: 3px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 13px;
+  letter-spacing: .25px;
+  font-weight: 900;
+  width: 80px;
+  height: 35px;
+}
+.check_out_site {
+  font-family: helvetica;
+  color: #ffffff;
+  background-color: #1b9af7;
+  border: 0px solid #5b6ac4;
+  border-radius: 4px;
+  padding: 11px 41px;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 7px 0px 0px #0b80d8;
+}
+ .visit_us {
+  font-family: helvetica Neue;
+  color: #ffffff;
+  background-color: #1b9af7;
+  border: .5px solid #098ef0;
+  border-radius: 180px;
+  padding: 11px 41px;
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 10px;
+  box-shadow: inset 0 1px 0px 0px #77c1fa;
+}
